@@ -18,4 +18,5 @@ To run the framework, user below maven command from project folder in command pr
 mvn clean test
 ```
 Thanks,
+
 QASquare
