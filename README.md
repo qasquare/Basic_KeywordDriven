@@ -1,4 +1,4 @@
-# Selenium Framework
+# Basic Keyword Driven Framework using Selenium
 Basic Keyword Driven Framework using Selenium + Java
 This a a demonstration of how one can create a basic Keyword Driven Framework using Selenium and Java. 
 # Components
